@@ -1,0 +1,30 @@
+.wrapper {
+  height: 100vh;
+  width: 100%;
+  background-color: #4158d0;
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+}
+
+.btn {
+  color: black;
+  width: 136px;
+  border: solid 1px #763d3d;
+  border-radius: 6px;
+  font-weight: 700;
+}
+
+.inpt-bar {
+  max-width: 582px;
+  padding: 6px;
+  width: 100%;
+  border: solid 1px #763d3d;
+  margin-right: 12px;
+  background-color: #c4c4c4;
+  border-radius: 6px;
+  font-weight: 700;
+}
